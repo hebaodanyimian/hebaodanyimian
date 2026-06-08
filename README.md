@@ -1,7 +1,7 @@
 # 计算机毕业设计指南
 
 ## 我是枫叶 
-
+<img src="https://github.com/hebaodanyimian/hebaodanyimian/blob/main/01d018ee74313c751cca684116b233d6.png" alt="Coding" width="300"  align="right" >
 -  I am a Java developer with two and a half years of practice .
 - :pencil: 博客：[CSDN](https://blog.csdn.net/javayoungcoolboy?type=sub&subType=watch)  足够硬核，内容老狠了！
 - 兼职：专注于大学生项目实战开发,讲解,毕业答疑辅导,承接JavaWeb（网站）开发，微信小程序制作，安卓开发以及项目二次开发,欢迎各位同学打扰！
